@@ -36,8 +36,8 @@ Build a solid foundation first without mastering these, frameworks and tools won
 
 Learn how to design fast, clean and standardized interfaces.
 
-- **Tailwind CSS** – Utility first modern styling
-- **Sass / SCSS** – Modular, professional CSS
+- **Tailwind CSS** - Utility first modern styling
+- **Sass / SCSS** - Modular, professional CSS
 - **Bootstrap (optional)** - Quick prototyping
 - Responsive & Mobile First Design
 - UI/UX fundamentals & Design Systems
@@ -170,4 +170,3 @@ Skills to reach the top :
 | Professional | API, PWA, Performance      | Fast, secure web apps                  |
 | Quality      | Testing, CI/CD             | Stability & reliability                |
 | God Level    | Clean Code, Design Systems | Master Front-End Development           |
-
