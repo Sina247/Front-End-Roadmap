@@ -1,6 +1,6 @@
-# 🧭 Front End Roadmap : From Zero to God Level
+# 🧭 Frontend Roadmap : From Zero to God Level
 
-This roadmap is a **modern, structured path** to becoming a professional and God Level Front End Developer.  
+This roadmap is a **modern, structured path** to becoming a professional and God Level Frontend Developer.  
 It covers everything from basic web fundamentals to advanced frameworks, tools, performance optimization and modern web apps.
 
 ---
@@ -169,4 +169,4 @@ Skills to reach the top :
 | Advanced     | TypeScript, Redux Toolkit  | Scalable projects & clean architecture |
 | Professional | API, PWA, Performance      | Fast, secure web apps                  |
 | Quality      | Testing, CI/CD             | Stability & reliability                |
-| God Level    | Clean Code, Design Systems | Master Front-End Development           |
+| God Level    | Clean Code, Design Systems | Master Frontend Development           |
